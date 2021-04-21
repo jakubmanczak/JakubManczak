@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+My name is Jakub Mańczak and I'm a teenager learning IT at a high school in Poznań, Poland.
+
+I have a website with loads more info: [manczak.net](https://manczak.net)
+
 <!--
-**jakubmanczak/jakubmanczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jakubmanczak/JakubManczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
