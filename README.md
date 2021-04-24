@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jakub Mańczak and I'm a teenager learning IT at a high school in Poznań, Poland.
+My name is Jakub Mańczak and I'm a high school student learning IT in Poznań, Poland.
 
 I have a website with loads more info: [manczak.net](https://manczak.net)
 
