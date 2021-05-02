@@ -4,7 +4,7 @@ My name is Jakub Mańczak, people call me j4mesen and I'm a high school student 
 
 I have a website with loads more info: [manczak.net](https://manczak.net)
 
-<!--![jakubmanczak's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubmanczak&show_icons=true&theme=dark)-->
+![jakubmanczak's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubmanczak&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true)
 
 
 <!--
