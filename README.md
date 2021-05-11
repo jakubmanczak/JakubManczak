@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 My name is Jakub Mańczak, people call me j4mesen and I'm a high school student learning IT in Poznań, Poland.
 
