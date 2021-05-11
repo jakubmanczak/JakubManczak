@@ -1,8 +1,10 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 My name is Jakub Mańczak, people call me j4mesen and I'm a high school student learning IT in Poznań, Poland.
 
-I have a website with loads more info: [manczak.net](https://manczak.net)
+I have a website with loads more info: [manczak.net](https://manczak.net)-->
+
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
 
 <!--![jakubmanczak's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubmanczak&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true)-->
 
